@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-29 06:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-29 02:03:37 +0000"
@@ -80,6 +86,12 @@
       "byg:maple_taiga": "2024-12-29 01:34:52 +0000",
       "byg:mojave_desert": "2024-12-29 05:24:52 +0000",
       "byg:frosted_taiga": "2024-12-29 05:39:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "honey_bottle": "2024-12-29 06:39:35 +0000"
     },
     "done": false
   },
@@ -182,6 +194,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-12-29 00:36:51 +0000"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2024-12-29 06:37:51 +0000"
     },
     "done": true
   },
