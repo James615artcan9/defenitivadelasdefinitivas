@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-29 06:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-29 06:41:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-29 02:03:37 +0000"
@@ -91,7 +103,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "honey_bottle": "2024-12-29 06:39:35 +0000"
+      "honey_bottle": "2024-12-29 06:39:35 +0000",
+      "baked_potato": "2024-12-29 06:44:17 +0000"
     },
     "done": false
   },
@@ -239,6 +252,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "rainbow_oak_sapling": "2024-12-29 06:47:12 +0000"
+    },
+    "done": false
+  },
   "idas:labyrinth": {
     "criteria": {
       "in_labyrinth": "2024-12-29 05:24:52 +0000"
@@ -257,6 +276,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-29 06:42:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_ceryneian_hind": {
     "criteria": {
       "location0": "2024-12-29 05:24:52 +0000"
@@ -266,6 +291,12 @@
   "idas:castle": {
     "criteria": {
       "in_castle": "2024-12-29 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-29 06:41:48 +0000"
     },
     "done": true
   },

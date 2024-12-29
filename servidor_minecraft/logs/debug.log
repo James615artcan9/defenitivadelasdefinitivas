@@ -22557,3 +22557,1135 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-29 06:42:09,769 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 has made the advancement [This Must be a Sign!]
 2024-12-29 06:42:13,915 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: /127.179.189.127:49445 lost connection: Disconnected
 2024-12-29 06:44:38,967 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Spectator Mode]
+2024-12-29 06:45:00,644 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:00,663 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:00,797 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12655)
+2024-12-29 06:45:00,798 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12655)
+2024-12-29 06:45:00,798 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:00,798 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:00,799 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (24613 | 32 | -12650)
+2024-12-29 06:45:00,799 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_90 at (24613 | 32 | -12650)
+2024-12-29 06:45:00,800 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:00,801 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:01,040 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (24609 | 50 | -12635)
+2024-12-29 06:45:01,044 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (24609 | 50 | -12635)
+2024-12-29 06:45:01,045 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12628)
+2024-12-29 06:45:01,045 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12628)
+2024-12-29 06:45:01,045 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:01,048 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:01,159 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (24609 | 50 | -12635)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (24609 | 50 | -12635)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12628)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12628)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12620)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12620)
+2024-12-29 06:45:01,160 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (24618 | 32 | -12620)
+2024-12-29 06:45:01,161 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (24618 | 32 | -12620)
+2024-12-29 06:45:01,161 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12623)
+2024-12-29 06:45:01,161 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12623)
+2024-12-29 06:45:01,161 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12614)
+2024-12-29 06:45:01,165 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12614)
+2024-12-29 06:45:01,194 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24621 | 50 | -12605)
+2024-12-29 06:45:01,195 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24621 | 50 | -12605)
+2024-12-29 06:45:01,195 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12614)
+2024-12-29 06:45:01,195 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12614)
+2024-12-29 06:45:01,196 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12605)
+2024-12-29 06:45:01,196 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12605)
+2024-12-29 06:45:01,196 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12596)
+2024-12-29 06:45:01,197 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12596)
+2024-12-29 06:45:01,326 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:01,329 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:01,329 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12596)
+2024-12-29 06:45:01,330 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12596)
+2024-12-29 06:45:01,330 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12587)
+2024-12-29 06:45:01,333 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24612 | 32 | -12587)
+2024-12-29 06:45:01,333 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12578)
+2024-12-29 06:45:01,333 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12578)
+2024-12-29 06:45:01,392 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:01,393 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:01,393 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_top with rotation NONE at (24612 | 41 | -12569)
+2024-12-29 06:45:01,394 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (24612 | 41 | -12569)
+2024-12-29 06:45:01,395 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (24612 | 41 | -12569)
+2024-12-29 06:45:01,396 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_top at (24612 | 41 | -12569)
+2024-12-29 06:45:01,396 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24621 | 41 | -12568)
+2024-12-29 06:45:01,397 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24621 | 41 | -12568)
+2024-12-29 06:45:01,397 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24621 | 41 | -12568)
+2024-12-29 06:45:01,397 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24621 | 41 | -12568)
+2024-12-29 06:45:01,397 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12575)
+2024-12-29 06:45:01,398 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12575)
+2024-12-29 06:45:01,398 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (24618 | 32 | -12575)
+2024-12-29 06:45:01,400 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (24618 | 32 | -12575)
+2024-12-29 06:45:01,400 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12578)
+2024-12-29 06:45:01,400 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24613 | 32 | -12578)
+2024-12-29 06:45:01,400 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (24612 | 32 | -12569)
+2024-12-29 06:45:01,401 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (24612 | 32 | -12569)
+2024-12-29 06:45:01,402 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (24621 | 32 | -12568)
+2024-12-29 06:45:01,402 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (24621 | 32 | -12568)
+2024-12-29 06:45:01,418 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (24614 | 48 | -12549)
+2024-12-29 06:45:01,418 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (24614 | 48 | -12549)
+2024-12-29 06:45:01,419 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (24614 | 48 | -12549)
+2024-12-29 06:45:01,419 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (24614 | 48 | -12549)
+2024-12-29 06:45:01,419 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (24614 | 41 | -12560)
+2024-12-29 06:45:01,419 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (24614 | 41 | -12560)
+2024-12-29 06:45:01,419 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (24614 | 41 | -12560)
+2024-12-29 06:45:01,420 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (24614 | 41 | -12560)
+2024-12-29 06:45:01,420 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:01,422 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:01,422 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:01,425 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:01,527 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (24613 | 41 | -12538)
+2024-12-29 06:45:01,527 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (24613 | 41 | -12538)
+2024-12-29 06:45:01,528 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (24613 | 41 | -12538)
+2024-12-29 06:45:01,528 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (24613 | 41 | -12538)
+2024-12-29 06:45:01,528 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:01,529 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:01,534 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:01,535 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:01,535 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (24614 | 41 | -12533)
+2024-12-29 06:45:01,535 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (24614 | 41 | -12533)
+2024-12-29 06:45:01,535 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (24614 | 41 | -12533)
+2024-12-29 06:45:01,536 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (24614 | 41 | -12533)
+2024-12-29 06:45:01,598 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (24614 | 47 | -12522)
+2024-12-29 06:45:01,598 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation CLOCKWISE_90 at (24614 | 47 | -12522)
+2024-12-29 06:45:01,598 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (24614 | 47 | -12522)
+2024-12-29 06:45:01,599 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/flat at (24614 | 47 | -12522)
+2024-12-29 06:45:01,599 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:01,601 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:01,601 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:01,603 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:01,688 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:01,689 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:01,689 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:01,689 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:02,829 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:02,830 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:02,830 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:02,831 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:02,831 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24621 | 50 | -12605)
+2024-12-29 06:45:02,833 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24621 | 50 | -12605)
+2024-12-29 06:45:02,833 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (24635 | 50 | -12603)
+2024-12-29 06:45:02,833 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (24635 | 50 | -12603)
+2024-12-29 06:45:02,833 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (24630 | 50 | -12604)
+2024-12-29 06:45:02,834 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (24630 | 50 | -12604)
+2024-12-29 06:45:02,834 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (24636 | 50 | -12608)
+2024-12-29 06:45:02,834 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (24636 | 50 | -12608)
+2024-12-29 06:45:02,835 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12614)
+2024-12-29 06:45:02,835 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12614)
+2024-12-29 06:45:02,835 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12602)
+2024-12-29 06:45:02,835 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12602)
+2024-12-29 06:45:02,835 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (24636 | 32 | -12602)
+2024-12-29 06:45:02,836 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (24636 | 32 | -12602)
+2024-12-29 06:45:02,836 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12605)
+2024-12-29 06:45:02,836 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12605)
+2024-12-29 06:45:02,836 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (24630 | 32 | -12596)
+2024-12-29 06:45:02,837 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (24630 | 32 | -12596)
+2024-12-29 06:45:02,838 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:02,838 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:02,847 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:02,848 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:02,848 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:02,848 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:02,850 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 32 | -12623)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 32 | -12623)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12611)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12611)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 32 | -12611)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 32 | -12611)
+2024-12-29 06:45:02,852 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12614)
+2024-12-29 06:45:02,853 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12614)
+2024-12-29 06:45:03,019 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (24625 | 59 | -12585)
+2024-12-29 06:45:03,019 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (24625 | 59 | -12585)
+2024-12-29 06:45:03,019 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_180 at (24633 | 64 | -12584)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/light with rotation CLOCKWISE_180 at (24633 | 64 | -12584)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_180 at (24633 | 59 | -12581)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation CLOCKWISE_180 at (24633 | 59 | -12581)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/light_switch with rotation NONE at (24633 | 59 | -12587)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/light_switch with rotation NONE at (24633 | 59 | -12587)
+2024-12-29 06:45:03,020 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_180 at (24630 | 59 | -12586)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor_light with rotation CLOCKWISE_180 at (24630 | 59 | -12586)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_top with rotation NONE at (24639 | 59 | -12587)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (24639 | 59 | -12587)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (24639 | 50 | -12587)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (24639 | 50 | -12587)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (24630 | 32 | -12596)
+2024-12-29 06:45:03,021 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (24630 | 32 | -12596)
+2024-12-29 06:45:03,022 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12587)
+2024-12-29 06:45:03,023 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 32 | -12587)
+2024-12-29 06:45:03,023 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24631 | 32 | -12578)
+2024-12-29 06:45:03,023 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24631 | 32 | -12578)
+2024-12-29 06:45:03,023 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:03,023 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24624 | 50 | -12630)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24624 | 50 | -12630)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (24625 | 50 | -12630)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (24625 | 50 | -12630)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (24630 | 50 | -12631)
+2024-12-29 06:45:03,067 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation NONE at (24630 | 50 | -12631)
+2024-12-29 06:45:03,068 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:03,068 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:03,068 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:03,068 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:03,100 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:03,100 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (24608 | 59 | -12591)
+2024-12-29 06:45:03,100 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 50 | -12569)
+2024-12-29 06:45:03,102 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 50 | -12569)
+2024-12-29 06:45:03,102 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 50 | -12568)
+2024-12-29 06:45:03,103 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 50 | -12568)
+2024-12-29 06:45:03,103 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24621 | 41 | -12568)
+2024-12-29 06:45:03,103 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24621 | 41 | -12568)
+2024-12-29 06:45:03,103 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24621 | 41 | -12568)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24621 | 41 | -12568)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (24633 | 41 | -12563)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (24633 | 41 | -12563)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24633 | 41 | -12563)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24633 | 41 | -12563)
+2024-12-29 06:45:03,104 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (24633 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (24633 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant at (24633 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/variant at (24633 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (24630 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (24630 | 41 | -12568)
+2024-12-29 06:45:03,105 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24630 | 41 | -12568)
+2024-12-29 06:45:03,106 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24630 | 41 | -12568)
+2024-12-29 06:45:03,106 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24639 | 41 | -12569)
+2024-12-29 06:45:03,106 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24639 | 41 | -12569)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24639 | 41 | -12569)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24639 | 41 | -12569)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (24626 | 32 | -12567)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (24626 | 32 | -12567)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (24632 | 32 | -12573)
+2024-12-29 06:45:03,107 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (24632 | 32 | -12573)
+2024-12-29 06:45:03,108 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24631 | 32 | -12578)
+2024-12-29 06:45:03,108 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24631 | 32 | -12578)
+2024-12-29 06:45:03,108 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (24621 | 32 | -12568)
+2024-12-29 06:45:03,108 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (24621 | 32 | -12568)
+2024-12-29 06:45:03,108 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:03,109 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:03,196 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:03,197 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:03,197 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:03,197 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:03,198 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:03,198 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:03,198 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12551)
+2024-12-29 06:45:03,200 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12551)
+2024-12-29 06:45:03,200 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12551)
+2024-12-29 06:45:03,202 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12551)
+2024-12-29 06:45:03,202 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:03,202 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:03,278 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:03,279 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:03,279 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:03,279 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (24608 | 41 | -12555)
+2024-12-29 06:45:03,279 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:03,280 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison_fork at (24608 | 41 | -12555)
+2024-12-29 06:45:03,280 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12551)
+2024-12-29 06:45:03,280 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12551)
+2024-12-29 06:45:03,280 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12551)
+2024-12-29 06:45:03,281 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12551)
+2024-12-29 06:45:03,281 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12539)
+2024-12-29 06:45:03,281 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12539)
+2024-12-29 06:45:03,281 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24631 | 41 | -12539)
+2024-12-29 06:45:03,281 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24631 | 41 | -12539)
+2024-12-29 06:45:03,282 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (24636 | 41 | -12540)
+2024-12-29 06:45:03,282 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (24636 | 41 | -12540)
+2024-12-29 06:45:03,282 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (24636 | 41 | -12540)
+2024-12-29 06:45:03,283 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (24636 | 41 | -12540)
+2024-12-29 06:45:03,283 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12542)
+2024-12-29 06:45:03,283 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12542)
+2024-12-29 06:45:03,283 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12542)
+2024-12-29 06:45:03,284 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12542)
+2024-12-29 06:45:03,284 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12530)
+2024-12-29 06:45:03,284 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12530)
+2024-12-29 06:45:03,284 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24631 | 41 | -12530)
+2024-12-29 06:45:03,284 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24631 | 41 | -12530)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 41 | -12530)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 41 | -12530)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24636 | 41 | -12530)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24636 | 41 | -12530)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12533)
+2024-12-29 06:45:03,285 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12533)
+2024-12-29 06:45:03,286 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12533)
+2024-12-29 06:45:03,286 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12533)
+2024-12-29 06:45:03,346 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:03,346 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:03,346 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:03,346 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:03,346 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24631 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/default at (24631 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (24636 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24636 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/bookshelf at (24636 | 41 | -12530)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12533)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (24631 | 41 | -12533)
+2024-12-29 06:45:03,347 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12533)
+2024-12-29 06:45:03,348 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/corridor at (24631 | 41 | -12533)
+2024-12-29 06:45:03,348 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12524)
+2024-12-29 06:45:03,348 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24630 | 41 | -12524)
+2024-12-29 06:45:03,348 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12524)
+2024-12-29 06:45:03,349 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24630 | 41 | -12524)
+2024-12-29 06:45:03,349 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 41 | -12523)
+2024-12-29 06:45:03,349 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 41 | -12523)
+2024-12-29 06:45:03,349 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24639 | 41 | -12523)
+2024-12-29 06:45:03,349 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24639 | 41 | -12523)
+2024-12-29 06:45:03,437 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:03,437 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (24608 | 40 | -12528)
+2024-12-29 06:45:03,437 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:03,438 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (24608 | 40 | -12528)
+2024-12-29 06:45:03,690 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:03,690 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:03,690 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:03,690 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24608 | 31 | -12645)
+2024-12-29 06:45:03,703 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:03,703 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation COUNTERCLOCKWISE_90 at (24608 | 31 | -12672)
+2024-12-29 06:45:03,734 [36mDEBUG[m [m[Worker-Main-2][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of aquamirae:lore/outpost
+2024-12-29 06:45:06,037 [36mDEBUG[m [m[Worker-Main-3][m [mmixin.log(107)[m: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+2024-12-29 06:45:06,079 [36mDEBUG[m [m[Worker-Main-3][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of structory:ruin/swamp/star1
+2024-12-29 06:45:06,291 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (24641 | 57 | -12630)
+2024-12-29 06:45:06,291 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation NONE at (24641 | 57 | -12630)
+2024-12-29 06:45:06,291 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 50 | -12631)
+2024-12-29 06:45:06,291 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 50 | -12631)
+2024-12-29 06:45:06,291 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:06,292 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:06,292 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (24654 | 32 | -12626)
+2024-12-29 06:45:06,292 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (24654 | 32 | -12626)
+2024-12-29 06:45:06,319 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 59 | -12613)
+2024-12-29 06:45:06,320 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 59 | -12613)
+2024-12-29 06:45:06,320 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:06,320 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:06,320 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (24641 | 50 | -12619)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (24641 | 50 | -12619)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (24635 | 50 | -12636)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (24641 | 50 | -12609)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (24641 | 50 | -12609)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24640 | 50 | -12614)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (24640 | 50 | -12614)
+2024-12-29 06:45:06,321 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (24654 | 32 | -12626)
+2024-12-29 06:45:06,322 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (24654 | 32 | -12626)
+2024-12-29 06:45:06,364 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 59 | -12613)
+2024-12-29 06:45:06,365 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 59 | -12613)
+2024-12-29 06:45:06,365 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24640 | 59 | -12601)
+2024-12-29 06:45:06,365 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (24640 | 59 | -12601)
+2024-12-29 06:45:06,365 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:06,366 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/fireplace with rotation COUNTERCLOCKWISE_90 at (24635 | 59 | -12618)
+2024-12-29 06:45:06,366 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (24645 | 59 | -12594)
+2024-12-29 06:45:06,366 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (24645 | 59 | -12594)
+2024-12-29 06:45:06,367 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:06,367 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:06,367 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12596)
+2024-12-29 06:45:06,367 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12596)
+2024-12-29 06:45:06,367 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24651 | 50 | -12603)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24651 | 50 | -12603)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (24641 | 50 | -12593)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (24641 | 50 | -12593)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 50 | -12604)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (24652 | 50 | -12604)
+2024-12-29 06:45:06,368 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (24636 | 50 | -12608)
+2024-12-29 06:45:06,369 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (24636 | 50 | -12608)
+2024-12-29 06:45:06,370 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (24642 | 32 | -12595)
+2024-12-29 06:45:06,370 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (24642 | 32 | -12595)
+2024-12-29 06:45:06,370 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:06,370 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:06,370 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (24648 | 32 | -12595)
+2024-12-29 06:45:06,371 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (24648 | 32 | -12595)
+2024-12-29 06:45:06,371 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (24653 | 31 | -12600)
+2024-12-29 06:45:06,371 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (24653 | 31 | -12600)
+2024-12-29 06:45:06,564 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (24640 | 59 | -12578)
+2024-12-29 06:45:06,564 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (24640 | 59 | -12578)
+2024-12-29 06:45:06,564 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (24645 | 59 | -12566)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_90 at (24645 | 59 | -12566)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24640 | 59 | -12566)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (24640 | 59 | -12566)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12569)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12569)
+2024-12-29 06:45:06,565 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 50 | -12568)
+2024-12-29 06:45:06,566 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 50 | -12568)
+2024-12-29 06:45:06,566 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12578)
+2024-12-29 06:45:06,566 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12578)
+2024-12-29 06:45:06,566 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_top with rotation NONE at (24648 | 50 | -12569)
+2024-12-29 06:45:06,567 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (24648 | 50 | -12569)
+2024-12-29 06:45:06,571 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24639 | 41 | -12569)
+2024-12-29 06:45:06,572 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24639 | 41 | -12569)
+2024-12-29 06:45:06,572 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24639 | 41 | -12569)
+2024-12-29 06:45:06,573 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24639 | 41 | -12569)
+2024-12-29 06:45:06,573 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (24648 | 41 | -12569)
+2024-12-29 06:45:06,574 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (24648 | 41 | -12569)
+2024-12-29 06:45:06,574 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (24648 | 41 | -12569)
+2024-12-29 06:45:06,575 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/stairs_bottom at (24648 | 41 | -12569)
+2024-12-29 06:45:06,575 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24642 | 32 | -12567)
+2024-12-29 06:45:06,575 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (24642 | 32 | -12567)
+2024-12-29 06:45:06,576 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (24643 | 32 | -12568)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation CLOCKWISE_180 at (24643 | 32 | -12568)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (24651 | 32 | -12568)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation NONE at (24651 | 32 | -12568)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (24651 | 32 | -12563)
+2024-12-29 06:45:06,577 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (24651 | 32 | -12563)
+2024-12-29 06:45:06,578 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (24648 | 32 | -12568)
+2024-12-29 06:45:06,578 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (24648 | 32 | -12568)
+2024-12-29 06:45:06,591 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (24655 | 68 | -12589)
+2024-12-29 06:45:06,591 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (24655 | 68 | -12589)
+2024-12-29 06:45:06,591 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (24645 | 59 | -12594)
+2024-12-29 06:45:06,591 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/empty_room_4 with rotation CLOCKWISE_90 at (24645 | 59 | -12594)
+2024-12-29 06:45:06,591 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (24638 | 59 | -12593)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12596)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (24640 | 59 | -12596)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_top with rotation NONE at (24639 | 59 | -12587)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_top with rotation NONE at (24639 | 59 | -12587)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (24640 | 59 | -12578)
+2024-12-29 06:45:06,592 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (24640 | 59 | -12578)
+2024-12-29 06:45:06,593 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24640 | 50 | -12592)
+2024-12-29 06:45:06,593 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24640 | 50 | -12592)
+2024-12-29 06:45:06,593 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (24639 | 50 | -12587)
+2024-12-29 06:45:06,593 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (24639 | 50 | -12587)
+2024-12-29 06:45:06,593 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 50 | -12587)
+2024-12-29 06:45:06,595 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 50 | -12587)
+2024-12-29 06:45:06,595 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12578)
+2024-12-29 06:45:06,595 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12578)
+2024-12-29 06:45:06,595 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (24642 | 32 | -12590)
+2024-12-29 06:45:06,596 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (24642 | 32 | -12590)
+2024-12-29 06:45:06,596 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:06,596 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (24639 | 32 | -12595)
+2024-12-29 06:45:06,596 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (24648 | 32 | -12595)
+2024-12-29 06:45:06,597 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (24648 | 32 | -12595)
+2024-12-29 06:45:06,597 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (24653 | 31 | -12600)
+2024-12-29 06:45:06,597 [36mDEBUG[m [m[Worker-Main-1][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_180 at (24653 | 31 | -12600)
+2024-12-29 06:45:06,644 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (24640 | 59 | -12560)
+2024-12-29 06:45:06,645 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (24640 | 59 | -12560)
+2024-12-29 06:45:06,645 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:06,646 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:06,646 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 50 | -12560)
+2024-12-29 06:45:06,648 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 50 | -12560)
+2024-12-29 06:45:06,648 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12551)
+2024-12-29 06:45:06,648 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12551)
+2024-12-29 06:45:06,649 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (24644 | 40 | -12546)
+2024-12-29 06:45:06,649 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (24644 | 40 | -12546)
+2024-12-29 06:45:06,649 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (24644 | 40 | -12546)
+2024-12-29 06:45:06,650 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (24644 | 40 | -12546)
+2024-12-29 06:45:06,650 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:06,650 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (24627 | 32 | -12572)
+2024-12-29 06:45:06,650 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (24653 | 32 | -12555)
+2024-12-29 06:45:06,650 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (24653 | 32 | -12555)
+2024-12-29 06:45:06,766 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:06,767 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_90 at (24635 | 59 | -12555)
+2024-12-29 06:45:06,767 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12551)
+2024-12-29 06:45:06,767 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (24649 | 50 | -12551)
+2024-12-29 06:45:06,767 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (24649 | 50 | -12542)
+2024-12-29 06:45:06,767 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_90 at (24649 | 50 | -12542)
+2024-12-29 06:45:06,768 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (24644 | 49 | -12537)
+2024-12-29 06:45:06,769 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (24644 | 49 | -12537)
+2024-12-29 06:45:06,769 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (24636 | 41 | -12540)
+2024-12-29 06:45:06,769 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/multipart/corridor/spawner_room with rotation CLOCKWISE_90 at (24636 | 41 | -12540)
+2024-12-29 06:45:06,769 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (24636 | 41 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/corridor/spawner_room at (24636 | 41 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (24650 | 47 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation COUNTERCLOCKWISE_90 at (24650 | 47 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (24650 | 47 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (24650 | 47 | -12540)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,770 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,771 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,771 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,771 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (24644 | 40 | -12546)
+2024-12-29 06:45:06,772 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (24644 | 40 | -12546)
+2024-12-29 06:45:06,772 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (24644 | 40 | -12546)
+2024-12-29 06:45:06,774 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (24644 | 40 | -12546)
+2024-12-29 06:45:06,774 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (24653 | 32 | -12555)
+2024-12-29 06:45:06,775 [36mDEBUG[m [m[Worker-Main-3][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/lava_hall with rotation COUNTERCLOCKWISE_90 at (24653 | 32 | -12555)
+2024-12-29 06:45:06,822 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (24644 | 49 | -12537)
+2024-12-29 06:45:06,823 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (24644 | 49 | -12537)
+2024-12-29 06:45:06,823 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 41 | -12523)
+2024-12-29 06:45:06,823 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (24639 | 41 | -12523)
+2024-12-29 06:45:06,823 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24639 | 41 | -12523)
+2024-12-29 06:45:06,824 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (24639 | 41 | -12523)
+2024-12-29 06:45:06,824 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,824 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,825 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,825 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (24649 | 41 | -12529)
+2024-12-29 06:45:06,825 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 41 | -12524)
+2024-12-29 06:45:06,830 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (24648 | 41 | -12524)
+2024-12-29 06:45:06,831 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(495)[m: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24648 | 41 | -12524)
+2024-12-29 06:45:06,832 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.decorate(501)[m: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (24648 | 41 | -12524)
+2024-12-29 06:45:06,832 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24653 | 31 | -12528)
+2024-12-29 06:45:06,832 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24653 | 31 | -12528)
+2024-12-29 06:45:06,937 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(305)[m: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24653 | 31 | -12528)
+2024-12-29 06:45:06,937 [36mDEBUG[m [m[Worker-Main-2][m [mDungeon Crawl.buildModel(324)[m: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (24653 | 31 | -12528)
+2024-12-29 06:45:55,764 [36mDEBUG[m [m[Netty Server IO #1][m [mn.m.n.HandshakeHandler.<init>(132)[m: Starting new modded impl connection. Found 115 messages to dispatch.
+2024-12-29 06:45:29,632 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 06:45:57,181 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 27527ms or 550 ticks behind
+2024-12-29 06:45:57,191 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! -6.440647521241772,0.0,8.379744275989651
+2024-12-29 06:46:14,707 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: /127.179.189.127:44703 lost connection: Disconnected
+2024-12-29 06:46:20,770 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-29 06:46:20,785 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-29 06:46:50,437 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
+2024-12-29 06:48:04,875 [36mDEBUG[m [m[Worker-Main-2][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of structory:ruin/swamp/ring2
+2024-12-29 06:48:06,120 [36mDEBUG[m [m[Server thread][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of minecraft:village/common/iron_golem
+2024-12-29 06:48:06,128 [36mDEBUG[m [m[Server thread][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+2024-12-29 06:48:12,496 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Survival Mode]
+2024-12-29 06:48:18,346 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
+2024-12-29 06:48:29,367 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@173d780, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:29,661 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@79c23fa8, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:29,878 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@661238c7, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:30,999 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@19737bdd, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:31,250 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@71a43824, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:31,718 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@607f2d7, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:31,907 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3e8487fa, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:32,309 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@340c2a64, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:32,544 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@7e275633, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:33,232 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5a2aefa2, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:33,486 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@7915d106, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:34,050 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@39c7b074, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:40,939 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@92118a2, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:41,144 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@44575289, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:41,560 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5bcc0e08, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:42,160 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2860da82, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:42,964 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@299198c2, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:43,159 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5037109b, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:43,744 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3c31a8e5, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:43,940 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@66684cbc, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:44,570 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@2e60f75c, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:44,760 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5feef6b0, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:973) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:48:44,966 [1;31mERROR[m [m[Server thread][m [mn.m.n.p.PacketUtils.m_131356_(31)[m: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@535695f6, suppressing error
+java.lang.IllegalArgumentException: Cannot set property EnumProperty{name=half, clazz=class net.minecraft.world.level.block.state.properties.DoubleBlockHalf, values=[upper, lower]} as it does not exist in Block{byg:ether_bush}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:117) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.block.DoublePlantBlock.m_153173_(DoublePlantBlock.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at potionstudios.byg.common.block.end.EtherPlantBlock.m_214148_(EtherPlantBlock.java:60) ~[Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar%23326!/:2.0.1.6]
+	at net.minecraft.world.item.BoneMealItem.applyBonemeal(BoneMealItem.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.bukkit_applyBonemeal(BoneMealItem.java:42) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.item.BoneMealItem.m_6225_(BoneMealItem.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:685) ~[forge-1.19.2-43.4.2-universal.jar%23372!/:?]
+	at net.minecraft.world.item.ItemStack.m_41661_(ItemStack.java:285) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:352) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1339) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:25) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:1011) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:174) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:994) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:988) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:974) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:898) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 06:49:00,744 [36mDEBUG[m [m[Netty Server IO #2][m [mn.m.n.HandshakeHandler.<init>(132)[m: Starting new modded impl connection. Found 115 messages to dispatch.
+2024-12-29 06:49:19,707 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: /127.179.189.127:33723 lost connection: Disconnected
+2024-12-29 06:51:20,753 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-29 06:51:20,769 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-29 06:51:35,911 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 06:51:49,429 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-29 06:52:54,345 [36mDEBUG[m [m[Netty Server IO #4][m [mn.m.n.HandshakeHandler.<init>(132)[m: Starting new modded impl connection. Found 115 messages to dispatch.
+2024-12-29 06:53:13,310 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: /127.179.189.127:52493 lost connection: Disconnected
+2024-12-29 06:54:14,950 [36mDEBUG[m [m[Netty Server IO #5][m [mn.m.n.HandshakeHandler.<init>(132)[m: Starting new modded impl connection. Found 115 messages to dispatch.
+2024-12-29 06:54:33,906 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: /127.179.189.127:41713 lost connection: Disconnected
+2024-12-29 06:55:16,060 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Sawakita123 lost connection: Disconnected
+2024-12-29 06:55:16,060 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 left the game
