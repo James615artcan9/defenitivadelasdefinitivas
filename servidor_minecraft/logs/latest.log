@@ -1104,3 +1104,237 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-29 05:30:25,284 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
 2024-12-29 05:30:27,424 [33mWARN [m [m[Worker-Main-1][m [mc.f.m.MVSCommon.generatePiece(271)[m: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 2024-12-29 05:30:43,112 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+2024-12-29 05:30:56,213 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14544.500000, 32.183941, -11135.500000]
+2024-12-29 05:30:56,840 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 0.0,43.869333039210574,0.0
+2024-12-29 05:31:06,711 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 05:31:14,709 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 has made the advancement [People Are Strange]
+2024-12-29 05:31:18,115 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-497, y=-6, z=34}
+2024-12-29 05:31:18,116 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-496, y=-8, z=35}
+2024-12-29 05:31:30,482 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-481, y=-5, z=28}
+2024-12-29 05:31:30,482 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-481, y=-3, z=27}
+2024-12-29 05:31:30,483 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-481, y=-7, z=26}
+2024-12-29 05:31:30,483 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-481, y=-5, z=24}
+2024-12-29 05:31:32,560 [33mWARN [m [m[Worker-Main-3][m [mn.m.w.e.EntityType.m_185999_(491)[m: Skipping Entity with id 
+2024-12-29 05:32:23,502 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14704.500000, 131.553181, -11135.500000]
+2024-12-29 05:32:23,708 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 has made the advancement [The Apothecary's Abode]
+2024-12-29 05:33:30,784 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
+2024-12-29 05:33:45,372 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Spectator Mode]
+2024-12-29 05:34:41,453 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! -1.8918808243997773,-0.6840000271797066,23.347934357561826
+2024-12-29 05:34:41,459 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
+2024-12-29 05:35:26,406 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Rooster['Phantom'/15, l='ServerLevel[world]', x=24354.00, y=82.00, z=-12591.00, tamed=false, owner='~NULL~'] died: Phantom fell out of the world
+2024-12-29 05:35:26,408 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(579)[m: Villager Villager['Unemployed'/22, l='ServerLevel[world]', x=24326.16, y=79.00, z=-12596.14] died, message: 'Unemployed fell out of the world'
+2024-12-29 05:35:26,408 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(579)[m: Villager Villager['Unemployed'/23, l='ServerLevel[world]', x=24320.30, y=79.06, z=-12596.50] died, message: 'Unemployed fell out of the world'
+2024-12-29 05:35:26,420 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 fell out of the world
+2024-12-29 05:35:26,442 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Dobutsu['Amy'/5202, l='ServerLevel[world]', x=14697.00, y=115.00, z=-11111.00, tamed=false, owner='~NULL~'] died: Amy fell out of the world
+2024-12-29 05:35:26,443 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Dobutsu['Kasimir'/5203, l='ServerLevel[world]', x=14695.00, y=115.00, z=-11111.00, tamed=false, owner='~NULL~'] died: Kasimir fell out of the world
+2024-12-29 05:35:26,445 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Dobutsu['Smokey'/5258, l='ServerLevel[world]', x=14725.00, y=114.00, z=-11111.00, tamed=false, owner='~NULL~'] died: Smokey fell out of the world
+2024-12-29 05:35:26,452 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Dobutsu['Mizue'/5457, l='ServerLevel[world]', x=14799.04, y=114.00, z=-11103.85, tamed=false, owner='~NULL~'] died: Mizue fell out of the world
+2024-12-29 05:35:26,455 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(579)[m: Villager Villager['Cleric'/5636, l='ServerLevel[world]', x=14814.59, y=130.88, z=-11181.75] died, message: 'Cleric fell out of the world'
+2024-12-29 05:35:26,457 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Starbuncle['Snowflake'/5655, l='ServerLevel[world]', x=14842.00, y=117.00, z=-11181.00] died: Snowflake fell out of the world
+2024-12-29 05:35:26,489 [32mINFO [m [m[Server thread][m [mn.m.w.e.LivingEntity.m_6667_(1525)[m: Named entity Starbuncle['Vivian'/6048, l='ServerLevel[world]', x=14488.05, y=128.00, z=-11203.58] died: Vivian fell out of the world
+2024-12-29 05:35:26,534 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Killed 550 entities]
+2024-12-29 05:35:34,054 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14667.500000, 119.500000, -11121.500000]
+2024-12-29 05:35:45,078 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-29 05:37:04,607 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 05:38:09,157 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14768.500000, 131.125150, -11183.500000]
+2024-12-29 05:38:12,179 [1;31mERROR[m [m[IO-Worker-28][m [mn.m.w.l.c.s.IOWorker.m_63535_(263)[m: Failed to store chunk [0, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 05:38:12,632 [1;31mERROR[m [m[IO-Worker-28][m [mn.m.w.l.c.s.IOWorker.m_63535_(263)[m: Failed to store chunk [1, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 05:38:13,380 [1;31mERROR[m [m[IO-Worker-26][m [mn.m.w.l.c.s.IOWorker.m_63535_(263)[m: Failed to store chunk [0, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 05:38:15,898 [33mWARN [m [m[Worker-Main-33][m [mc.f.m.MVSCommon.generatePiece(271)[m: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+2024-12-29 05:38:18,824 [1;31mERROR[m [m[IO-Worker-32][m [mn.m.w.l.c.s.IOWorker.m_63535_(263)[m: Failed to store chunk [1, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 05:38:27,484 [1;31mERROR[m [m[IO-Worker-32][m [mn.m.w.l.c.s.IOWorker.m_63535_(263)[m: Failed to store chunk [1, 1]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23367!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+2024-12-29 05:39:42,279 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+2024-12-29 05:39:51,348 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 15520.500000, 123.988813, -14143.500000]
+2024-12-29 05:39:52,307 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 0.0,-25.31250100582841,0.0
+2024-12-29 05:39:52,682 [33mWARN [m [m[Worker-Main-34][m [mc.f.m.MVSCommon.generatePiece(271)[m: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+2024-12-29 05:39:56,848 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15490, y=85, z=-14118} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-29 05:39:56,849 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=15490, y=85, z=-14118}
+2024-12-29 05:39:56,850 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15492, y=85, z=-14117} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-29 05:39:56,850 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=15492, y=85, z=-14117}
+2024-12-29 05:40:04,721 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 3318ms or 66 ticks behind
+2024-12-29 05:40:04,958 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15524, y=81, z=-14197} but found not block entity block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] at location
+2024-12-29 05:40:04,958 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=15524, y=81, z=-14197}
+2024-12-29 05:40:04,959 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15525, y=84, z=-14197} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+2024-12-29 05:40:04,959 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=15525, y=84, z=-14197}
+2024-12-29 05:40:04,959 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15526, y=84, z=-14197} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+2024-12-29 05:40:04,960 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=15526, y=84, z=-14197}
+2024-12-29 05:40:04,960 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15526, y=83, z=-14197} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+2024-12-29 05:40:04,960 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=15526, y=83, z=-14197}
+2024-12-29 05:40:04,961 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=15524, y=81, z=-14196} but found not block entity block Block{minecraft:stone} at location
+2024-12-29 05:40:04,961 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=15524, y=81, z=-14196}
+2024-12-29 05:40:38,105 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-237, y=-12, z=117}
+2024-12-29 05:40:38,137 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-238, y=-12, z=112}
+2024-12-29 05:40:40,637 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-219, y=-9, z=40}
+2024-12-29 05:40:56,433 [33mWARN [m [m[Worker-Main-33][m [mn.m.w.e.EntityType.m_185999_(491)[m: Skipping Entity with id 
+2024-12-29 05:40:56,433 [33mWARN [m [m[Worker-Main-33][m [mn.m.w.e.EntityType.m_185999_(491)[m: Skipping Entity with id 
+2024-12-29 05:40:57,209 [33mWARN [m [m[Worker-Main-33][m [mn.m.w.e.EntityType.m_185999_(491)[m: Skipping Entity with id 
+2024-12-29 05:40:57,210 [33mWARN [m [m[Worker-Main-33][m [mn.m.w.e.EntityType.m_185999_(491)[m: Skipping Entity with id 
+2024-12-29 05:40:57,234 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 16128.500000, 93.244481, -15695.500000]
+2024-12-29 05:40:57,234 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 6031ms or 120 ticks behind
+2024-12-29 05:41:20,405 [33mWARN [m [m[Worker-Main-2][m [mModernFix.readStructureTag(80)[m: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+2024-12-29 05:41:25,096 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=16230, y=85, z=-15781} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+2024-12-29 05:41:25,096 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=16230, y=85, z=-15781}
+2024-12-29 05:41:25,096 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=16229, y=86, z=-15781} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+2024-12-29 05:41:25,097 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=16229, y=86, z=-15781}
+2024-12-29 05:41:25,097 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=16230, y=86, z=-15781} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+2024-12-29 05:41:25,097 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=16230, y=86, z=-15781}
+2024-12-29 05:41:37,413 [33mWARN [m [m[Worker-Main-3][m [mModernFix.readStructureTag(80)[m: The namespace betterjungletemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+2024-12-29 05:41:49,926 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+2024-12-29 05:41:49,926 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+2024-12-29 05:41:51,030 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+2024-12-29 05:41:53,540 [33mWARN [m [m[Worker-Main-33][m [mc.f.m.MVSCommon.generatePiece(271)[m: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+2024-12-29 05:42:36,852 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 05:42:51,258 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 8768.500000, 101.106391, -24575.500000]
+2024-12-29 05:42:51,259 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 5555ms or 111 ticks behind
+2024-12-29 05:42:52,218 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
+2024-12-29 05:43:03,826 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Spectator Mode]
+2024-12-29 05:43:10,557 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+2024-12-29 05:43:12,997 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-152, y=7, z=475}
+2024-12-29 05:43:12,997 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-155, y=6, z=484}
+2024-12-29 05:43:13,322 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+2024-12-29 05:43:16,139 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+2024-12-29 05:43:18,565 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=78, z=-24517}
+2024-12-29 05:43:18,565 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=78, z=-24517}
+2024-12-29 05:43:18,565 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=78, z=-24521}
+2024-12-29 05:43:18,565 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=78, z=-24521}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=79, z=-24517}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=79, z=-24517}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=79, z=-24521}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=79, z=-24521}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=80, z=-24517}
+2024-12-29 05:43:18,566 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=80, z=-24521}
+2024-12-29 05:43:18,567 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=78, z=-24517}
+2024-12-29 05:43:18,567 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=78, z=-24517}
+2024-12-29 05:43:18,567 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=78, z=-24521}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=78, z=-24521}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=79, z=-24517}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=79, z=-24517}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=79, z=-24521}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8987, y=79, z=-24521}
+2024-12-29 05:43:18,568 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=80, z=-24517}
+2024-12-29 05:43:18,569 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=8983, y=80, z=-24521}
+2024-12-29 05:43:19,447 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+2024-12-29 05:43:19,484 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+2024-12-29 05:43:19,982 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=9006, y=87, z=-24516}
+2024-12-29 05:43:19,991 [33mWARN [m [m[Worker-Main-33][m [mn.m.s.l.WorldGenRegion.m_7702_(228)[m: Tried to access a block entity before it was created. BlockPos{x=9006, y=87, z=-24516}
+2024-12-29 05:43:21,636 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-167, y=-1, z=374}
+2024-12-29 05:43:22,770 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-207, y=-9, z=342}
+2024-12-29 05:43:23,408 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-207, y=-4, z=298}
+2024-12-29 05:43:23,408 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-205, y=-4, z=298}
+2024-12-29 05:43:24,059 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+2024-12-29 05:43:29,588 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-199, y=-5, z=290}
+2024-12-29 05:43:29,596 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-165, y=-9, z=322}
+2024-12-29 05:43:29,644 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-199, y=24, z=420}
+2024-12-29 05:43:34,921 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+2024-12-29 05:43:34,952 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+2024-12-29 05:44:10,139 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 10048.500000, 101.250545, -25103.500000]
+2024-12-29 05:44:10,139 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 5886ms or 117 ticks behind
+2024-12-29 05:44:35,736 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+2024-12-29 05:44:52,043 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+2024-12-29 05:44:52,043 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+2024-12-29 05:44:52,083 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+2024-12-29 05:44:52,084 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+2024-12-29 05:44:52,084 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+2024-12-29 05:44:52,084 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+2024-12-29 05:44:52,084 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+2024-12-29 05:44:55,771 [33mWARN [m [m[Worker-Main-33][m [mn.m.w.l.l.s.p.JigsawPlacement.m_227264_(105)[m: Empty or non-existent pool: byg:village/common/cats
+2024-12-29 05:44:56,839 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 9872.500000, 139.500546, -25279.500000]
+2024-12-29 05:45:27,088 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 0.009951991523848847,16.681831958876415,-15.844047986742225
+2024-12-29 05:45:27,094 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
+2024-12-29 05:45:40,957 [32mINFO [m [m[Server thread][m [mn.m.w.e.n.Villager.m_6667_(579)[m: Villager Villager['Unemployed'/26591, l='ServerLevel[world]', x=10015.72, y=140.50, z=-25355.37] died, message: 'Unemployed suffocated in a wall'
+2024-12-29 05:46:21,283 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 9636.500000, 152.000000, -25253.500000]
+2024-12-29 05:46:21,283 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
+2024-12-29 05:46:46,582 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-29 05:48:13,716 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 5263ms or 105 ticks behind
+2024-12-29 05:48:21,005 [1;31mERROR[m [m[Worker-Main-33][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-261, y=-12, z=79}
+2024-12-29 05:48:21,417 [1;31mERROR[m [m[Worker-Main-33][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-262, y=-12, z=83}
+2024-12-29 05:48:22,211 [1;31mERROR[m [m[Worker-Main-2][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+2024-12-29 05:48:22,242 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14784.500000, 181.619332, -23887.500000]
+2024-12-29 05:48:46,864 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-29 05:49:32,257 [1;31mERROR[m [m[Worker-Main-34][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+2024-12-29 05:49:42,359 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14598.500000, 167.000000, -24084.500000]
+2024-12-29 05:50:24,196 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=14464, y=269, z=-23981} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-29 05:50:24,197 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=14464, y=269, z=-23981}
+2024-12-29 05:50:28,709 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 14515.500000, 193.000000, -24058.500000]
+2024-12-29 05:51:00,648 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 13481.500000, 207.000000, -24376.500000]
+2024-12-29 05:51:00,649 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 11996ms or 239 ticks behind
