@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:coconino_meadow": "2024-12-29 01:08:10 +0000"
+    },
+    "done": false
+  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2024-12-29 00:40:32 +0000"
@@ -79,6 +85,7 @@
       "old_growth_woodland": "2024-12-29 00:39:48 +0000",
       "maple_woods": "2024-12-29 00:59:43 +0000",
       "mediterranean_forest": "2024-12-29 00:40:54 +0000",
+      "coniferous_forest": "2024-12-29 01:14:55 +0000",
       "forested_field": "2024-12-29 00:58:19 +0000",
       "spider_nest": "2024-12-29 00:55:22 +0000",
       "redwood_forest": "2024-12-29 01:03:44 +0000",
@@ -89,6 +96,12 @@
       "rainforest": "2024-12-29 01:00:44 +0000"
     },
     "done": false
+  },
+  "repurposed_structures:city_overworld": {
+    "criteria": {
+      "city_overworld": "2024-12-29 01:15:36 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
