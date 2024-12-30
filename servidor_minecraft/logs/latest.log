@@ -1337,3 +1337,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 05:27:58,823 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Gamerule spawnRadius is now set to: 0]
 2024-12-30 05:28:17,987 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
 2024-12-30 05:28:36,403 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
+2024-12-30 05:30:56,510 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
