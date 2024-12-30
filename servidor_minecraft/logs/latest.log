@@ -1338,3 +1338,38 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 05:28:17,987 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
 2024-12-30 05:28:36,403 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set own game mode to Creative Mode]
 2024-12-30 05:30:56,510 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 05:55:59,917 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> ola
+2024-12-30 05:56:10,741 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> aparato reproductor
+2024-12-30 05:56:13,113 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> tas bien? tardaste mucho
+2024-12-30 05:56:17,531 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> XD
+2024-12-30 05:56:18,252 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> cene
+2024-12-30 05:56:22,288 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> a
+2024-12-30 05:56:30,321 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> se me subio el acido
+2024-12-30 05:56:30,669 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 05:56:40,773 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> esas cosas se avisan con tiempo joven
+2024-12-30 05:56:40,868 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> casi me agomito
+2024-12-30 05:56:47,596 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> peldon
+2024-12-30 05:56:53,359 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> *pat pat*
+2024-12-30 05:57:00,600 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> tqm
+2024-12-30 05:57:17,335 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> porque hiciste seña nazi?
+2024-12-30 05:57:29,198 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> :O
+2024-12-30 05:57:29,860 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> ES PAT PAT
+2024-12-30 05:57:33,049 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> jajsjasja
+2024-12-30 05:57:47,199 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> asi mismo decia el señor de bigote funny
+2024-12-30 05:58:14,565 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> oye spawnea un alley
+2024-12-30 05:58:25,382 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> dale una manzana
+2024-12-30 05:58:32,163 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> con click derecho
+2024-12-30 05:58:42,599 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [You've Got a Friend in Me]
+2024-12-30 05:59:04,188 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> parece un chaoooooo
+2024-12-30 05:59:11,489 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> ahora el Alley va a recoger tantas manzanas como encuentre y te las va a traer a ti
+2024-12-30 05:59:32,966 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> alaverga
+2024-12-30 05:59:57,411 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> <3
+2024-12-30 06:00:00,479 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> QUE MONOOO
+2024-12-30 06:00:03,530 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> ME LO COMO
+2024-12-30 06:00:09,336 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> No es mono es Alley
+2024-12-30 06:00:19,351 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 has made the advancement [Isn't It Iron Pick]
+2024-12-30 06:00:23,740 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> QUIERO UNO
+2024-12-30 06:00:31,587 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> asdfghjklñ{
+2024-12-30 06:00:35,739 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> es igual a los chao
+2024-12-30 06:00:45,310 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> mira charla
+2024-12-30 06:00:50,355 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> si vi
