@@ -1419,3 +1419,22 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 06:11:20,491 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Sawakita123 lost connection: Disconnected
 2024-12-30 06:11:20,491 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 left the game
 2024-12-30 06:11:20,519 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+2024-12-30 06:11:22,898 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: ZephyrVampyr lost connection: Disconnected
+2024-12-30 06:11:22,898 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr left the game
+2024-12-30 06:11:41,343 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Stopping the server
+2024-12-30 06:11:41,413 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(684)[m: Stopping server
+2024-12-30 06:11:41,413 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+2024-12-30 06:11:41,418 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(696)[m: Saving players
+2024-12-30 06:11:41,519 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(702)[m: Saving worlds
+2024-12-30 06:11:43,554 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+2024-12-30 06:11:43,554 [32mINFO [m [m[Server thread][m [mBo's Player Companions.m_7176_(360)[m: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5fa80cb9
+2024-12-30 06:11:52,557 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+2024-12-30 06:11:54,778 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+2024-12-30 06:11:55,357 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/endlessocean:ships_rest
+2024-12-30 06:11:55,358 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (world): All chunks are saved
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (ships_rest): All chunks are saved
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+2024-12-30 06:11:55,408 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(648)[m: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed_by": "2024-12-30 06:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/allay_deliver_item_to_player": {
     "criteria": {
       "allay_deliver_item_to_player": "2024-12-30 05:58:42 +0000"
