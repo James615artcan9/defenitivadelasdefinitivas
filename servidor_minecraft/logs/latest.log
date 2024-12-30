@@ -1213,3 +1213,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 03:12:00,411 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 6.599502109508649,0.0,7.972314173316903
 2024-12-30 03:13:38,860 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
 2024-12-30 03:18:52,259 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:20:23,226 [33mWARN [m [m[Worker-Main-1][m [mc.f.m.MVSCommon.generatePiece(271)[m: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+2024-12-30 03:20:42,686 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 03:24:53,101 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:28:15,754 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-603, y=5, z=40}
