@@ -1264,3 +1264,49 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 04:30:57,503 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
 2024-12-30 04:39:34,605 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
 2024-12-30 04:39:35,889 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:43:35,083 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player ZephyrVampyr is f09f3853-01c9-33d7-a009-de253d0d3adf
+2024-12-30 04:43:35,401 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@4835e0bb[id=f09f3853-01c9-33d7-a009-de253d0d3adf,name=ZephyrVampyr,properties={},legacy=false] (/127.181.97.181:37937) lost connection: Disconnected
+2024-12-30 04:44:53,309 [32mINFO [m [m[User Authenticator #3][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player ZephyrVampyr is f09f3853-01c9-33d7-a009-de253d0d3adf
+2024-12-30 04:44:53,593 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@1bfdab5d[id=f09f3853-01c9-33d7-a009-de253d0d3adf,name=ZephyrVampyr,properties={},legacy=false] (/127.181.97.181:43939) lost connection: Disconnected
+2024-12-30 04:45:06,886 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:47:23,381 [32mINFO [m [m[User Authenticator #4][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(378)[m: UUID of player ZephyrVampyr is f09f3853-01c9-33d7-a009-de253d0d3adf
+2024-12-30 04:47:31,595 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d7d7cec
+2024-12-30 04:47:31,615 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr joined the game
+2024-12-30 04:47:31,662 [32mINFO [m [m[Server thread][m [mJade.playerJoin(149)[m: Syncing config to ZephyrVampyr (f09f3853-01c9-33d7-a009-de253d0d3adf)
+2024-12-30 04:47:31,691 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(323)[m: ZephyrVampyr[/127.181.97.181:37281] logged in with entity id 570807 at (24272.5, 73.0, -12470.5)
+2024-12-30 04:47:31,712 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [Integrated Dungeons and Structures]
+2024-12-30 04:47:31,713 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [Ice and Fire]
+2024-12-30 04:49:22,346 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 04:49:29,222 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 200.500000, 108.500000, 200.500000]
+2024-12-30 04:50:10,678 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:51:11,350 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
+2024-12-30 04:52:47,663 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set ZephyrVampyr's game mode to Creative Mode]
+2024-12-30 04:53:55,280 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported ZephyrVampyr to Sawakita123]
+2024-12-30 04:54:16,910 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Made ZephyrVampyr a server operator
+2024-12-30 04:55:16,617 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 200.500000, 108.500000, 200.500000]
+2024-12-30 04:55:48,898 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
+2024-12-30 04:56:11,276 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:56:14,331 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 04:57:26,001 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24092, y=63, z=-12226} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:26,002 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24092, y=63, z=-12226}
+2024-12-30 04:57:26,002 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24093, y=63, z=-12226} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:26,003 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24093, y=63, z=-12226}
+2024-12-30 04:57:30,170 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24086, y=63, z=-12223} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:30,171 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24086, y=63, z=-12223}
+2024-12-30 04:57:30,171 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24087, y=63, z=-12222} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:30,171 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24087, y=63, z=-12222}
+2024-12-30 04:57:30,172 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24088, y=63, z=-12222} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:30,172 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24088, y=63, z=-12222}
+2024-12-30 04:57:30,173 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=24084, y=64, z=-12222} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 04:57:30,173 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=24084, y=64, z=-12222}
+2024-12-30 05:05:02,161 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 05:05:03,417 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 05:05:35,061 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=23876, y=63, z=-12657} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 05:05:35,062 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=23876, y=63, z=-12657}
+2024-12-30 05:05:35,126 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.m_62870_(605)[m: Tried to load a DUMMY block entity @ BlockPos{x=23847, y=63, z=-12672} but found not block entity block Block{minecraft:snow}[layers=1] at location
+2024-12-30 05:05:35,126 [33mWARN [m [m[Server thread][m [mn.m.w.l.c.LevelChunk.redirect$zon000$warn(1922)[m: Tried to load a block entity for block Block{minecraft:snow}[layers=1] but failed at location BlockPos{x=23847, y=63, z=-12672}
+2024-12-30 05:05:51,882 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 155.500000, 134.500000, 126.500000]
+2024-12-30 05:06:30,351 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported ZephyrVampyr to Sawakita123]
+2024-12-30 05:08:32,184 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 24338.500000, 81.500000, -12705.500000]
+2024-12-30 05:10:06,683 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
+2024-12-30 05:10:15,261 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
