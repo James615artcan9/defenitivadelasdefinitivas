@@ -1231,3 +1231,15 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 03:54:54,548 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/276957, l='ServerLevel[world]', x=-368.40, y=48.70, z=-79.04]
 2024-12-30 03:55:22,372 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
 2024-12-30 03:56:52,099 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:00:38,325 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 04:01:05,448 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 04:02:03,119 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:07:01,084 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 11594ms or 231 ticks behind
+2024-12-30 04:07:01,140 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 0.0,10.31250061703875,0.0
+2024-12-30 04:07:19,179 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 04:07:50,477 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 fell out of the world
+2024-12-30 04:07:50,546 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Killed 1989 entities]
+2024-12-30 04:08:01,005 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 63.500000, 139.500000, -93.500000]
+2024-12-30 04:09:05,810 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 fell out of the world
+2024-12-30 04:09:05,834 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Killed 742 entities]
+2024-12-30 04:09:16,637 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to -181.500000, 137.500000, -148.500000]
