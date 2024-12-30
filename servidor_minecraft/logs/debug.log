@@ -22561,3 +22561,41 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-12-30 02:33:19,631 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
 2024-12-30 02:38:19,621 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
 2024-12-30 02:38:19,638 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:43:19,618 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 02:43:19,632 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:47:55,834 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 02:48:19,619 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 02:48:19,635 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:51:07,792 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Sawakita123 lost connection: Disconnected
+2024-12-30 02:51:07,793 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 left the game
+2024-12-30 02:51:18,676 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Stopping the server
+2024-12-30 02:51:18,723 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(684)[m: Stopping server
+2024-12-30 02:51:18,724 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+2024-12-30 02:51:18,726 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(696)[m: Saving players
+2024-12-30 02:51:18,827 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(702)[m: Saving worlds
+2024-12-30 02:51:20,398 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+2024-12-30 02:51:20,427 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+2024-12-30 02:51:20,430 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/endlessocean:ships_rest
+2024-12-30 02:51:20,867 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+2024-12-30 02:51:21,052 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(622)[m: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+2024-12-30 02:51:21,063 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 02:51:21,073 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:51:21,099 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (world): All chunks are saved
+2024-12-30 02:51:21,099 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2024-12-30 02:51:21,099 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (ships_rest): All chunks are saved
+2024-12-30 02:51:21,099 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2024-12-30 02:51:21,100 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(645)[m: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+2024-12-30 02:51:21,100 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(648)[m: ThreadedAnvilChunkStorage: All dimensions are saved
+2024-12-30 02:51:21,101 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(76)[m: Removed Redstone Network Space for minecraft:overworld
+2024-12-30 02:51:21,101 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(23)[m: Removed Kinetic Network Space for minecraft:overworld
+2024-12-30 02:51:21,123 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(76)[m: Removed Redstone Network Space for minecraft:the_end
+2024-12-30 02:51:21,123 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(23)[m: Removed Kinetic Network Space for minecraft:the_end
+2024-12-30 02:51:21,124 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(76)[m: Removed Redstone Network Space for minecraft:overworld
+2024-12-30 02:51:21,124 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(23)[m: Removed Kinetic Network Space for minecraft:overworld
+2024-12-30 02:51:21,125 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(76)[m: Removed Redstone Network Space for minecraft:the_nether
+2024-12-30 02:51:21,125 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(23)[m: Removed Kinetic Network Space for minecraft:the_nether
+2024-12-30 02:51:21,126 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(76)[m: Removed Redstone Network Space for twilightforest:twilight_forest_type
+2024-12-30 02:51:21,126 [36mDEBUG[m [m[Server thread][m [mc.s.c.Create.onUnloadWorld(23)[m: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+2024-12-30 02:51:21,131 [36mDEBUG[m [m[Server thread][m [mSpectreLib.unloadServerConfigs(176)[m: Unloading server configs
+2024-12-30 02:51:21,131 [36mDEBUG[m [m[Server thread][m [mn.m.f.l.FileUtils.getOrCreateDirectory(42)[m: Found existing serverconfig directory : ./world/serverconfig
+2024-12-30 02:51:21,131 [36mDEBUG[m [m[Server thread][m [mn.m.f.c.ConfigTracker.unloadConfigs(54)[m: Unloading configs type SERVER
