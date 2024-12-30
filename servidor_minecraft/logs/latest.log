@@ -1310,3 +1310,24 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 05:08:32,184 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 24338.500000, 81.500000, -12705.500000]
 2024-12-30 05:10:06,683 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
 2024-12-30 05:10:15,261 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 05:10:59,531 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set ZephyrVampyr's game mode to Survival Mode]
+2024-12-30 05:11:58,202 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set ZephyrVampyr's game mode to Creative Mode]
+2024-12-30 05:12:17,171 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 13973.500000, 84.500000, -27554.500000]
+2024-12-30 05:12:17,172 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 4732ms or 94 ticks behind
+2024-12-30 05:12:17,192 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: ZephyrVampyr moved too quickly! 1.7932062290897477,3.108959313421053,-9.73795102640085
+2024-12-30 05:12:33,105 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-266, y=-12, z=81}
+2024-12-30 05:12:34,816 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=79}
+2024-12-30 05:12:34,816 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=78}
+2024-12-30 05:12:34,817 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-178, y=-12, z=81}
+2024-12-30 05:12:34,817 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-180, y=-12, z=81}
+2024-12-30 05:12:34,817 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-177, y=-12, z=80}
+2024-12-30 05:12:34,817 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-185, y=-12, z=83}
+2024-12-30 05:12:34,826 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-184, y=-12, z=84}
+2024-12-30 05:12:34,827 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-179, y=-12, z=88}
+2024-12-30 05:12:37,496 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-186, y=-12, z=86}
+2024-12-30 05:12:37,496 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-187, y=-12, z=84}
+2024-12-30 05:12:39,158 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to ZephyrVampyr]
+2024-12-30 05:14:51,872 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 05:15:26,320 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 05:20:31,161 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 05:20:32,523 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
