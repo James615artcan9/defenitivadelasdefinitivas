@@ -1217,3 +1217,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 03:20:42,686 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
 2024-12-30 03:24:53,101 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
 2024-12-30 03:28:15,754 [1;31mERROR[m [m[Worker-Main-3][m [mn.m.w.e.d.HangingEntity.m_7378_(227)[m: Hanging entity at invalid position: BlockPos{x=-603, y=5, z=40}
+2024-12-30 03:30:29,673 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:30:33,920 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 03:35:36,601 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
