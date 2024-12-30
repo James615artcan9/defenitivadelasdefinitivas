@@ -22549,3 +22549,7 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-12-30 02:06:31,900 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
 2024-12-30 02:08:19,623 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
 2024-12-30 02:08:19,638 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:13:19,634 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 02:13:19,661 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 02:18:19,617 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 02:18:19,632 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
