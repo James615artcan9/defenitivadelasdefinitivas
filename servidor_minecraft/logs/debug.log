@@ -22773,3 +22773,90 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 03:08:18,906 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [01xh3mu9eml1x]: Consuming argument `stone`
 2024-12-30 03:08:18,906 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [01xh3mu9eml1x]: Finished looking at arguments. Finalizing command.
 2024-12-30 03:08:20,150 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:09:15,901 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1m7cnrsji9pu9]: started parsing
+2024-12-30 03:09:15,902 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1m7cnrsji9pu9]: Consuming argument ``
+2024-12-30 03:09:16,040 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xru83pkw6yex]: started parsing
+2024-12-30 03:09:16,040 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0xru83pkw6yex]: Consuming argument `a`
+2024-12-30 03:09:16,305 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0wr1xhgqyh1is]: started parsing
+2024-12-30 03:09:16,305 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0wr1xhgqyh1is]: Consuming argument `ai`
+2024-12-30 03:09:16,503 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [17g6h0zv8lhvy]: started parsing
+2024-12-30 03:09:16,503 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [17g6h0zv8lhvy]: Consuming argument `air`
+2024-12-30 03:09:16,503 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [17g6h0zv8lhvy]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:09:16,788 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06snqol5ytmzi]: started parsing
+2024-12-30 03:09:16,788 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06snqol5ytmzi]: Consuming argument `air`
+2024-12-30 03:09:16,789 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [06snqol5ytmzi]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:09:22,338 [36mDEBUG[m [m[Worker-Main-1][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of structory:ruin/swamp/ruin1
+2024-12-30 03:09:27,555 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6257, l='ServerLevel[world]', x=-352.21, y=8.83, z=188.45]
+2024-12-30 03:09:27,555 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6258, l='ServerLevel[world]', x=-352.15, y=8.39, z=184.70]
+2024-12-30 03:09:27,556 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6259, l='ServerLevel[world]', x=-352.30, y=67.60, z=209.61]
+2024-12-30 03:11:11,904 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 03:11:19,191 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 03:11:19,209 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 03:11:20,269 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qg7ihan6qan2]: started parsing
+2024-12-30 03:11:20,269 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0qg7ihan6qan2]: Consuming argument ``
+2024-12-30 03:11:20,480 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0n5d20ud7w04s]: started parsing
+2024-12-30 03:11:20,480 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0n5d20ud7w04s]: Consuming argument `1`
+2024-12-30 03:11:20,481 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0n5d20ud7w04s]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:11:20,831 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug44dnp6eck5]: started parsing
+2024-12-30 03:11:20,831 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug44dnp6eck5]: Consuming argument `15`
+2024-12-30 03:11:20,831 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0ug44dnp6eck5]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:11:21,937 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0akz6c3t6j5fp]: started parsing
+2024-12-30 03:11:21,937 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0akz6c3t6j5fp]: Consuming argument `15`
+2024-12-30 03:11:21,938 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0akz6c3t6j5fp]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:11:32,163 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 200.500000, 108.500000, 200.500000]
+2024-12-30 03:11:43,586 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1tmgmyrynzhie]: started parsing
+2024-12-30 03:11:43,586 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1tmgmyrynzhie]: Consuming argument ``
+2024-12-30 03:11:44,528 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1c30ifmx9gc7g]: started parsing
+2024-12-30 03:11:44,528 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [1c30ifmx9gc7g]: Consuming argument `g`
+2024-12-30 03:11:44,800 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yj4irbt3vq3v]: started parsing
+2024-12-30 03:11:44,800 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0yj4irbt3vq3v]: Consuming argument `gr`
+2024-12-30 03:11:45,375 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [00hy2qcklhbi7]: started parsing
+2024-12-30 03:11:45,375 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [00hy2qcklhbi7]: Consuming argument `gra`
+2024-12-30 03:11:45,714 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [05gkty6t0zzs3]: started parsing
+2024-12-30 03:11:45,714 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [05gkty6t0zzs3]: Consuming argument `gras`
+2024-12-30 03:11:48,231 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w4cwyzre9iku]: started parsing
+2024-12-30 03:11:48,231 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w4cwyzre9iku]: Consuming argument `grass_block`
+2024-12-30 03:11:48,231 [36mDEBUG[m [m[Server thread][m [mo.e.p.i.CommandParser.log(78)[m: [0w4cwyzre9iku]: Finished looking at arguments. Finalizing command.
+2024-12-30 03:12:00,358 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 12118ms or 242 ticks behind
+2024-12-30 03:12:00,411 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 6.599502109508649,0.0,7.972314173316903
+2024-12-30 03:12:33,142 [36mDEBUG[m [m[Worker-Main-1][m [mModernFix.readStructureTag(75)[m: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+2024-12-30 03:13:38,860 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:14:38,499 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-194.12, y=136.67, z=-196.77], dimensionLocationPath overworld
+2024-12-30 03:14:38,599 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-194.12, y=136.67, z=-196.77]
+2024-12-30 03:15:25,397 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-196.60, y=136.30, z=-154.92], dimensionLocationPath overworld
+2024-12-30 03:15:25,397 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-196.60, y=136.30, z=-154.92] in list []
+2024-12-30 03:15:29,749 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-198.14, y=136.30, z=-153.44]
+2024-12-30 03:15:47,600 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-187.71, y=136.30, z=-189.90], dimensionLocationPath overworld
+2024-12-30 03:15:47,601 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-187.71, y=136.30, z=-189.90] in list []
+2024-12-30 03:15:47,751 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-185.73, y=136.30, z=-189.36]
+2024-12-30 03:16:22,199 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-178.52, y=136.30, z=-161.58], dimensionLocationPath overworld
+2024-12-30 03:16:22,199 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-178.52, y=136.30, z=-161.58] in list []
+2024-12-30 03:16:30,354 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ItemEntity['Redstone Torch'/11395, l='ServerLevel[world]', x=-176.44, y=135.45, z=-172.32], dimensionLocationPath overworld
+2024-12-30 03:16:30,354 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/11395, l='ServerLevel[world]', x=-176.44, y=135.45, z=-172.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@206]
+2024-12-30 03:16:31,202 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.serverWorldTick(216)[m: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/11395, l='ServerLevel[world]', x=-176.80, y=135.78, z=-172.41, removed=DISCARDED]
+2024-12-30 03:16:31,301 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1408)[m: Gathering id map for writing to world save world
+2024-12-30 03:16:31,318 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1414)[m: ID Map collection complete world
+2024-12-30 03:16:40,001 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-160.65, y=143.21, z=-183.49]
+2024-12-30 03:16:45,000 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-163.47, y=135.18, z=-172.85], dimensionLocationPath overworld
+2024-12-30 03:16:45,000 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-163.47, y=135.18, z=-172.85] in list []
+2024-12-30 03:16:52,599 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-165.25, y=137.80, z=-165.86]
+2024-12-30 03:16:54,648 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-164.62, y=136.68, z=-165.73], dimensionLocationPath overworld
+2024-12-30 03:16:54,648 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-164.62, y=136.68, z=-165.73] in list []
+2024-12-30 03:16:57,400 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-165.20, y=136.68, z=-166.23]
+2024-12-30 03:16:58,740 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ItemEntity['Redstone Torch'/11914, l='ServerLevel[world]', x=-165.59, y=135.29, z=-166.30], dimensionLocationPath overworld
+2024-12-30 03:16:58,741 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/11914, l='ServerLevel[world]', x=-165.59, y=135.29, z=-166.30] in list []
+2024-12-30 03:17:11,949 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-196.36, y=135.57, z=-163.69], dimensionLocationPath overworld
+2024-12-30 03:17:11,950 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-196.36, y=135.57, z=-163.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e8a]
+2024-12-30 03:17:16,790 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ItemEntity['Redstone Torch'/12019, l='ServerLevel[world]', x=-197.68, y=135.25, z=-162.68], dimensionLocationPath overworld
+2024-12-30 03:17:16,791 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/12019, l='ServerLevel[world]', x=-197.68, y=135.25, z=-162.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e8a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@206]
+2024-12-30 03:17:28,552 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-183.56, y=138.38, z=-163.56]
+2024-12-30 03:17:30,097 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-172.98, y=138.58, z=-174.71], dimensionLocationPath overworld
+2024-12-30 03:17:30,097 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-172.98, y=138.58, z=-174.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e8a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2ef3]
+2024-12-30 03:17:31,855 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-159.06, y=138.58, z=-188.38]
+2024-12-30 03:18:38,349 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-89.40, y=138.21, z=-187.34], dimensionLocationPath overworld
+2024-12-30 03:18:38,349 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-89.40, y=138.21, z=-187.34] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e8a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2ef3]
+2024-12-30 03:18:48,152 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(148)[m: Calling addLightSource on entity ItemEntity['Redstone Torch'/12776, l='ServerLevel[world]', x=-148.39, y=135.53, z=-194.46], dimensionLocationPath overworld
+2024-12-30 03:18:48,153 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.addLightSource(154)[m: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/12776, l='ServerLevel[world]', x=-148.39, y=135.53, z=-194.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2e8a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2ef3, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@206]
+2024-12-30 03:18:48,304 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.removeLightSource(194)[m: Removing Dynamic Light attached to ServerPlayer['Sawakita123'/518, l='ServerLevel[world]', x=-151.90, y=139.33, z=-196.28]
+2024-12-30 03:18:48,957 [36mDEBUG[m [m[Server thread][m [ma.d.s.DynamicLights.serverWorldTick(216)[m: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/12776, l='ServerLevel[world]', x=-148.31, y=135.69, z=-194.51, removed=DISCARDED]
+2024-12-30 03:18:52,259 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]

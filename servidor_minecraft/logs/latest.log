@@ -1204,3 +1204,12 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 03:06:11,484 [32mINFO [m [m[Server thread][m [mBo's Player Companions.m_7176_(360)[m: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5fa80cb9
 2024-12-30 03:06:54,899 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 7709ms or 154 ticks behind
 2024-12-30 03:08:20,150 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:09:27,555 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6257, l='ServerLevel[world]', x=-352.21, y=8.83, z=188.45]
+2024-12-30 03:09:27,555 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6258, l='ServerLevel[world]', x=-352.15, y=8.39, z=184.70]
+2024-12-30 03:09:27,556 [33mWARN [m [m[Server thread][m [mn.m.w.l.e.PersistentEntitySectionManager.m_157557_(76)[m: UUID of added entity already exists: EntitySlowPart['Part'/6259, l='ServerLevel[world]', x=-352.30, y=67.60, z=209.61]
+2024-12-30 03:11:11,904 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 03:11:32,163 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported Sawakita123 to 200.500000, 108.500000, 200.500000]
+2024-12-30 03:12:00,358 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 12118ms or 242 ticks behind
+2024-12-30 03:12:00,411 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 6.599502109508649,0.0,7.972314173316903
+2024-12-30 03:13:38,860 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
+2024-12-30 03:18:52,259 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the weather to clear]
