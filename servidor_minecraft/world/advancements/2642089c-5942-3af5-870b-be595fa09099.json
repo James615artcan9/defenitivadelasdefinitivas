@@ -153,6 +153,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2024-12-30 06:07:48 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2024-12-29 05:31:14 +0000"
@@ -244,6 +250,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-29 00:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 06:00:19 +0000"
     },
     "done": true
   },

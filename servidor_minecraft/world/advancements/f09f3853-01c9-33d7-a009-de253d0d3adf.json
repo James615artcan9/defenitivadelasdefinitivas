@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "player_companions:taming/lizard_default": {
+    "criteria": {
+      "has_lizard_default": "2024-12-30 06:02:05 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-30 04:47:31 +0000"
@@ -34,6 +40,24 @@
       "tick": "2024-12-30 04:47:31 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-30 06:05:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/strange_fish_finder": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-30 06:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-30 06:05:07 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -59,6 +83,24 @@
     },
     "done": false
   },
+  "quark:throw_parrot_egg": {
+    "criteria": {
+      "throw_parrot_egg": "2024-12-30 06:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-30 06:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-12-30 05:58:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_the_recipe": "2024-12-30 04:47:31 +0000"
@@ -75,6 +117,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-30 04:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 06:02:07 +0000"
     },
     "done": true
   },

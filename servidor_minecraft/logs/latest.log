@@ -1373,3 +1373,49 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 2024-12-30 06:00:35,739 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> es igual a los chao
 2024-12-30 06:00:45,310 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> mira charla
 2024-12-30 06:00:50,355 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> si vi
+2024-12-30 06:01:20,589 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> alley mi vida ya no quiero mas manzanas
+2024-12-30 06:01:27,782 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> lo mejor es que el Alley es de Minecraft normal sin mods, así que lo puedes tener en cualquier mundo
+2024-12-30 06:01:42,253 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> como los consigo?
+2024-12-30 06:02:05,247 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has completed the challenge [Tame Lizard (Default)]
+2024-12-30 06:02:07,204 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [Best Friends Forever]
+2024-12-30 06:02:07,205 [32mINFO [m [m[Server thread][m [mBo's Player Companions.m_21828_(412)[m: Player ServerPlayer['ZephyrVampyr'/570807, l='ServerLevel[world]', x=175.12, y=136.00, z=160.13] tamed player companion Lizard['Snickers'/586976, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00, tamed=true, owner='f09f3853-01c9-33d7-a009-de253d0d3adf'] ...
+2024-12-30 06:02:07,205 [32mINFO [m [m[Server thread][m [mBo's Player Companions.registerCompanion(310)[m: Register companion Lizard['Snickers'/586976, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00, tamed=true, owner='f09f3853-01c9-33d7-a009-de253d0d3adf'] for ServerPlayer['ZephyrVampyr'/570807, l='ServerLevel[world]', x=175.12, y=136.00, z=160.13] ...
+2024-12-30 06:02:07,215 [32mINFO [m [m[Server thread][m [mBo's Player Companions.spawn(73)[m: Spawn dbafd8a8-2b5e-479e-b34a-ecf9c3e0443a BlockPos{x=174, y=135, z=160} ServerPlayer['ZephyrVampyr'/570807, l='ServerLevel[world]', x=175.12, y=136.00, z=160.13] ServerLevel[world]
+2024-12-30 06:02:09,912 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> En los asentamientos de los illagers, ellos los tienen capturados y tienes que liberarlos
+2024-12-30 06:02:29,490 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> Snickers <3
+2024-12-30 06:02:36,422 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has reached the goal [Just the Parrots]
+2024-12-30 06:02:46,808 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> Ando realizando actividades NSFW
+2024-12-30 06:02:56,095 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> ando comiendo cereal frente a la compu XD
+2024-12-30 06:03:05,713 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> mira vasago
+2024-12-30 06:03:06,589 [32mINFO [m [m[Async Chat Thread - #0][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> eso es muy Not Safe For Work
+2024-12-30 06:03:29,935 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [The Quest for the Best]
+2024-12-30 06:03:47,948 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set the time to 1000]
+2024-12-30 06:04:28,597 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr fell out of the world
+2024-12-30 06:04:28,599 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Killed ZephyrVampyr]
+2024-12-30 06:04:43,093 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> por qué hiciste eso
+2024-12-30 06:04:44,055 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> ????
+2024-12-30 06:04:50,566 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Teleported ZephyrVampyr to Sawakita123]
+2024-12-30 06:04:51,553 [32mINFO [m [m[Async Chat Thread - #2][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> porque habian muchos
+2024-12-30 06:05:07,899 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [Monster Hunter]
+2024-12-30 06:06:47,544 [32mINFO [m [m[Server thread][m [mBo's Player Companions.m_7176_(360)[m: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@5fa80cb9
+2024-12-30 06:07:12,532 [33mWARN [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7185_(1165)[m: Sawakita123 moved too quickly! 1.3138602057454705,-2.5589055346897,18.05162834294987
+2024-12-30 06:07:14,614 [32mINFO [m [m[Async Chat Thread - #4][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> dios?
+2024-12-30 06:07:17,450 [32mINFO [m [m[Async Chat Thread - #4][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> wtf
+2024-12-30 06:07:32,873 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: ZephyrVampyr has made the advancement [Sculk Cymbal]
+2024-12-30 06:07:48,679 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 has made the advancement [Sculk Cymbal]
+2024-12-30 06:08:13,296 [32mINFO [m [m[Async Chat Thread - #4][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> ponme en surv
+2024-12-30 06:08:21,637 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set ZephyrVampyr's game mode to Survival Mode]
+2024-12-30 06:09:13,490 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> no matan
+2024-12-30 06:09:17,159 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> solo joden
+2024-12-30 06:09:20,426 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> pero son re molestos
+2024-12-30 06:09:41,029 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> jajajaja
+2024-12-30 06:09:55,796 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> andas bien esquizo x
+2024-12-30 06:09:57,751 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> xd
+2024-12-30 06:10:42,060 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <Sawakita123> eres un mounstruo
+2024-12-30 06:10:52,380 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> no soy un alien uwu
+2024-12-30 06:11:02,896 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: [Sawakita123: Set ZephyrVampyr's game mode to Creative Mode]
+2024-12-30 06:11:12,928 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> ire a dibujar me reganan
+2024-12-30 06:11:20,419 [32mINFO [m [m[Async Chat Thread - #6][m [mn.m.s.MinecraftServer.m_241158_(2088)[m: <ZephyrVampyr> en irl
+2024-12-30 06:11:20,491 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1412)[m: Sawakita123 lost connection: Disconnected
+2024-12-30 06:11:20,491 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_213846_(1269)[m: Sawakita123 left the game
+2024-12-30 06:11:20,519 [33mWARN [m [m[Server thread][m [mn.m.s.MinecraftServer.m_130011_(860)[m: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
